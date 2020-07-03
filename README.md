@@ -7,7 +7,7 @@ app-blogsystem
 * 推荐文章
 
 详情页：
-12332333
+test1
 
 分类：
 
